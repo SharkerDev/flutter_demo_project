@@ -1,0 +1,27 @@
+[
+  {
+    "title":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "nativeBrowser":true,
+    "url":"https://flutter.dev"
+  },
+  {
+    "title":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "nativeBrowser":true,
+    "url":"https://flutter.dev"
+  },
+  {
+    "title":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "nativeBrowser":true,
+    "url":"https://flutter.dev"
+  },
+  {
+    "title":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Facilisi nunc non, luctus fringilla tempus. Curabitur est.",
+    "nativeBrowser":true,
+    "url":"https://flutter.dev"
+  },
+  {
+    "title":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut id vestibulum nisl auctor.",
+    "nativeBrowser":true,
+    "url":"https://flutter.dev"
+  }
+]

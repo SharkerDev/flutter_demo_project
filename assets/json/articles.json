@@ -1,0 +1,26 @@
+[
+  {
+    "imageUrl":"assets/images/article_image.png",
+    "paragraph":[
+      "Mus sed at ligula.",
+      "Tortor sem.",
+      "Quam in nunc nibh mattis in diam."
+    ],
+    "title":"Pellentesque nulla enim sed.",
+    "subTitle":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mattis praesent lorem egestas tellus orci leo."
+  },
+  {
+    "imageUrl":"assets/images/article_image.png",
+    "paragraph":[
+      "A sodales et purus leo.",
+      "Est lorem.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Semper amet viverra non justo a morbi blandit.",
+      "Lacinia nunc curabitur velit.",
+      "Lacinia non.",
+      "Diam ac molestie.",
+      "Volutpat id sed."
+    ],
+    "title":"Pellentesque nulla enim sed.",
+    "subTitle":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mattis praesent lorem egestas tellus orci leo."
+  }
+]
